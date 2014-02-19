@@ -1,0 +1,11 @@
+{
+    "name": "angular-utils-meteor",
+    "description": "angular-utils-meteor",
+    "homepage": "http://github.com/aralshukaili/angular-utils-meteor.git",
+    "author": "Somebody",
+    "git": "http://github.com/aralshukaili/angular-utils-meteor.git",
+    "version": "0.1.1",
+    "packages": {
+        "ngMeteor": {}
+    }
+}
