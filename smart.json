@@ -1,9 +1,9 @@
 {
     "name": "angular-ui-utils",
-    "description": "angular-utils-meteor",
-    "homepage": "http://github.com/aralshukaili/angular-utils-meteor.git",
+    "description": "wrapper for meteor",
+    "homepage": "http://github.com/aralshukaili/angular-ui-utils-meteor.git",
     "author": "https://github.com/angular-ui/ui-utils",
-    "git": "http://github.com/aralshukaili/angular-utils-meteor.git",
+    "git": "http://github.com/aralshukaili/angular-ui-utils-meteor.git",
     "version": "0.1.1",
     "packages": {
         "ngMeteor": {}
