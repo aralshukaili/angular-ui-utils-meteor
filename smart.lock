@@ -2,12 +2,12 @@
   "meteor": {},
   "dependencies": {
     "basePackages": {
-      "angular-utils-meteor": {
+      "angular-ui-utils": {
         "path": "."
       }
     },
     "packages": {
-      "angular-utils-meteor": {
+      "angular-ui-utils": {
         "path": "."
       },
       "ngMeteor": {
