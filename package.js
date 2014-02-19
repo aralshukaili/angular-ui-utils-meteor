@@ -1,5 +1,5 @@
 Package.describe({
-	summary: "angular-utils-meteor"
+	summary: "angular-ui-utils-meteor"
 });
 
 Package.on_use(function (api) {
@@ -10,6 +10,6 @@ Package.on_use(function (api) {
 		// Lib Files
 		'ui-utils.js',
 		'ui-utils-ieshiv.js',
-		'angular-utils-meteor.js'
+		'ui-utils-meteor.js'
 	], 'client');
 });
