@@ -8,8 +8,8 @@ Package.on_use(function (api) {
 	// Files to load in Client only.
 	api.add_files([
 		// Lib Files
-		'angular-utils-meteor.js',
+		'angular-utils.js',
 		'ui-utils-ieshiv.js',
-		'angular-ui-meteor.js'
+		'angular-utils-meteor.js'
 	], 'client');
 });
